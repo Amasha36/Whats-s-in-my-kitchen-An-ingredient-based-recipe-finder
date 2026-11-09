@@ -2,13 +2,12 @@
     "name": "whats-in-my-kitchen",
     "version": "1.0.0",
     "private": true,
-    "main": "index.ts",
+    "main": "index.js",
     "scripts": {
         "start": "expo start",
         "android": "expo start --android",
         "ios": "expo start --ios",
-        "typecheck": "tsc --noEmit",
-        "test": "node --experimental-strip-types tests/matching.test.ts && node tests/artwork.test.cjs"
+        "test": "node tests/matching.test.js && node tests/artwork.test.cjs"
     },
     "dependencies": {
         "@expo/vector-icons": "^15.0.2",
@@ -22,9 +21,5 @@
         "react-native-safe-area-context": "~5.6.2",
         "react-native-screens": "~4.23.0"
     },
-    "devDependencies": {
-        "@types/node": "^24.0.0",
-        "@types/react": "~19.2.0",
-        "typescript": "~5.9.2"
-    }
+    "type": "module"
 }
