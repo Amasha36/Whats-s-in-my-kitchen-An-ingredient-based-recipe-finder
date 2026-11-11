@@ -1,0 +1,262 @@
+{
+  "recipe_001": {
+    "sheet": 1,
+    "tile": 0,
+    "name": "Vegetable Fried Rice"
+  },
+  "recipe_002": {
+    "sheet": 1,
+    "tile": 1,
+    "name": "Chicken Fried Rice"
+  },
+  "recipe_003": {
+    "sheet": 1,
+    "tile": 2,
+    "name": "Egg Fried Rice"
+  },
+  "recipe_004": {
+    "sheet": 1,
+    "tile": 3,
+    "name": "Dhal Curry"
+  },
+  "recipe_005": {
+    "sheet": 1,
+    "tile": 4,
+    "name": "Potato Curry"
+  },
+  "recipe_006": {
+    "sheet": 1,
+    "tile": 5,
+    "name": "Coconut Roti"
+  },
+  "recipe_007": {
+    "sheet": 1,
+    "tile": 6,
+    "name": "Egg Hoppers"
+  },
+  "recipe_008": {
+    "sheet": 1,
+    "tile": 7,
+    "name": "Vegetable Kottu"
+  },
+  "recipe_009": {
+    "sheet": 2,
+    "tile": 0,
+    "name": "Fish Curry"
+  },
+  "recipe_010": {
+    "sheet": 2,
+    "tile": 1,
+    "name": "Chicken Curry"
+  },
+  "recipe_011": {
+    "sheet": 2,
+    "tile": 2,
+    "name": "Pol Sambol"
+  },
+  "recipe_012": {
+    "sheet": 2,
+    "tile": 3,
+    "name": "Vegetable Pasta"
+  },
+  "recipe_013": {
+    "sheet": 2,
+    "tile": 4,
+    "name": "Chicken Pasta"
+  },
+  "recipe_014": {
+    "sheet": 2,
+    "tile": 5,
+    "name": "Vegetable Omelette"
+  },
+  "recipe_015": {
+    "sheet": 2,
+    "tile": 6,
+    "name": "Pancakes"
+  },
+  "recipe_016": {
+    "sheet": 2,
+    "tile": 7,
+    "name": "French Toast"
+  },
+  "recipe_017": {
+    "sheet": 3,
+    "tile": 0,
+    "name": "Potato Wedges"
+  },
+  "recipe_018": {
+    "sheet": 3,
+    "tile": 1,
+    "name": "Banana Smoothie"
+  },
+  "recipe_019": {
+    "sheet": 3,
+    "tile": 2,
+    "name": "Fruit Salad"
+  },
+  "recipe_020": {
+    "sheet": 3,
+    "tile": 3,
+    "name": "Tomato Soup"
+  },
+  "recipe_021": {
+    "sheet": 3,
+    "tile": 4,
+    "name": "Vegetable Sandwich"
+  },
+  "recipe_022": {
+    "sheet": 3,
+    "tile": 5,
+    "name": "Milk Rice"
+  },
+  "recipe_023": {
+    "sheet": 3,
+    "tile": 6,
+    "name": "Pumpkin Curry"
+  },
+  "recipe_024": {
+    "sheet": 3,
+    "tile": 7,
+    "name": "Chickpea Salad"
+  },
+  "recipe_025": {
+    "sheet": 4,
+    "tile": 0,
+    "name": "Spinach Dhal"
+  },
+  "recipe_026": {
+    "sheet": 4,
+    "tile": 1,
+    "name": "Garlic Butter Noodles"
+  },
+  "recipe_027": {
+    "sheet": 4,
+    "tile": 2,
+    "name": "Tuna Rice Bowl"
+  },
+  "recipe_028": {
+    "sheet": 4,
+    "tile": 3,
+    "name": "Prawn Stir Fry"
+  },
+  "recipe_029": {
+    "sheet": 4,
+    "tile": 4,
+    "name": "Beef Pepper Skillet"
+  },
+  "recipe_030": {
+    "sheet": 4,
+    "tile": 5,
+    "name": "Cabbage Mallung"
+  },
+  "recipe_031": {
+    "sheet": 4,
+    "tile": 6,
+    "name": "Beetroot Curry"
+  },
+  "recipe_032": {
+    "sheet": 4,
+    "tile": 7,
+    "name": "Green Bean Curry"
+  },
+  "recipe_033": {
+    "sheet": 5,
+    "tile": 0,
+    "name": "Mushroom Toast"
+  },
+  "recipe_034": {
+    "sheet": 5,
+    "tile": 1,
+    "name": "Banana Oat Porridge"
+  },
+  "recipe_035": {
+    "sheet": 5,
+    "tile": 2,
+    "name": "Cheese Scrambled Eggs"
+  },
+  "recipe_036": {
+    "sheet": 5,
+    "tile": 3,
+    "name": "Avocado Toast"
+  },
+  "recipe_037": {
+    "sheet": 5,
+    "tile": 4,
+    "name": "Spiced Chickpeas"
+  },
+  "recipe_038": {
+    "sheet": 5,
+    "tile": 5,
+    "name": "Cucumber Yogurt Dip"
+  },
+  "recipe_039": {
+    "sheet": 5,
+    "tile": 6,
+    "name": "Cheese Potato Cakes"
+  },
+  "recipe_040": {
+    "sheet": 5,
+    "tile": 7,
+    "name": "Peanut Trail Mix"
+  },
+  "recipe_041": {
+    "sheet": 6,
+    "tile": 0,
+    "name": "Coconut Semolina Pudding"
+  },
+  "recipe_042": {
+    "sheet": 6,
+    "tile": 1,
+    "name": "Chocolate Oat Cups"
+  },
+  "recipe_043": {
+    "sheet": 6,
+    "tile": 2,
+    "name": "Cinnamon Baked Apples"
+  },
+  "recipe_044": {
+    "sheet": 6,
+    "tile": 3,
+    "name": "Mango Yogurt Pots"
+  },
+  "recipe_045": {
+    "sheet": 6,
+    "tile": 4,
+    "name": "Caramel Banana"
+  },
+  "recipe_046": {
+    "sheet": 6,
+    "tile": 5,
+    "name": "Pineapple Coconut Cups"
+  },
+  "recipe_047": {
+    "sheet": 6,
+    "tile": 6,
+    "name": "Mango Lassi"
+  },
+  "recipe_048": {
+    "sheet": 6,
+    "tile": 7,
+    "name": "Lime Mint Cooler"
+  },
+  "recipe_049": {
+    "sheet": 7,
+    "tile": 0,
+    "name": "Spiced Milk Tea"
+  },
+  "recipe_050": {
+    "sheet": 7,
+    "tile": 1,
+    "name": "Iced Cocoa"
+  },
+  "recipe_051": {
+    "sheet": 7,
+    "tile": 2,
+    "name": "Papaya Smoothie"
+  },
+  "recipe_052": {
+    "sheet": 7,
+    "tile": 3,
+    "name": "Ginger Coffee"
+  }
+}
