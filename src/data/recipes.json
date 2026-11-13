@@ -1,0 +1,2030 @@
+[
+  {
+    "id": "recipe_001",
+    "name": "Vegetable Fried Rice",
+    "description": "Vegetable Fried Rice, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 20,
+    "difficulty": "Medium",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "rice",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "carrot",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Cook rice in water until tender and cool it.",
+      "Dice vegetables. Heat oil and fry onion and garlic for 2 minutes.",
+      "Add carrot and stir-fry for 5 minutes. Fold in rice and soy sauce; heat through."
+    ]
+  },
+  {
+    "id": "recipe_002",
+    "name": "Chicken Fried Rice",
+    "description": "Chicken Fried Rice, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Non-vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 25,
+    "difficulty": "Medium",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "rice",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "chicken",
+        "quantity": "250 g"
+      },
+      {
+        "ingredientId": "carrot",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Cook rice and set aside.",
+      "Cut chicken into small pieces. Fry in oil until cooked through.",
+      "Add chopped onion and carrot; fry for 5 minutes. Stir in rice and soy sauce until steaming."
+    ]
+  },
+  {
+    "id": "recipe_003",
+    "name": "Egg Fried Rice",
+    "description": "Egg Fried Rice, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "rice",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "egg",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "carrot",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Cook rice until tender and drain.",
+      "Fry diced onion and carrot in oil for 5 minutes.",
+      "Push vegetables aside, scramble eggs until set, then stir in rice and soy sauce."
+    ]
+  },
+  {
+    "id": "recipe_004",
+    "name": "Dhal Curry",
+    "description": "Dhal Curry, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "lentils",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "turmeric",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "curry_leaves",
+        "quantity": "1 sprig"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Rinse lentils and place in a saucepan with sliced onion, turmeric and curry leaves.",
+      "Cover with water and simmer for 15 minutes until soft.",
+      "Add coconut milk and salt; simmer gently for 8 minutes."
+    ]
+  },
+  {
+    "id": "recipe_005",
+    "name": "Potato Curry",
+    "description": "Potato Curry, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "potato",
+        "quantity": "3"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "curry_powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Peel and cube potatoes. Slice onion.",
+      "Cover potatoes and onion with water; simmer until almost tender.",
+      "Add coconut milk, curry powder and salt; simmer 10 minutes until thick."
+    ]
+  },
+  {
+    "id": "recipe_006",
+    "name": "Coconut Roti",
+    "description": "Coconut Roti, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "ingredientId": "flour",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "coconut",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "water",
+        "quantity": "0.75 cup"
+      }
+    ],
+    "instructions": [
+      "Mix flour, grated coconut and salt.",
+      "Add water gradually to form a soft dough. Rest 10 minutes.",
+      "Divide into 8 balls, flatten and cook on a hot dry pan for 3 minutes per side."
+    ]
+  },
+  {
+    "id": "recipe_007",
+    "name": "Egg Hoppers",
+    "description": "Egg Hoppers, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 180,
+    "cookingTime": 20,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      {
+        "ingredientId": "rice_flour",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "yeast",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "egg",
+        "quantity": "4"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Mix flour, yeast, sugar, coconut milk and enough water for a pouring batter. Cover for 2–3 hours.",
+      "Stir in salt. Swirl a ladleful around a hot lightly oiled hopper pan.",
+      "Crack an egg into the centre; cover and cook until the white and yolk are set."
+    ]
+  },
+  {
+    "id": "recipe_008",
+    "name": "Vegetable Kottu",
+    "description": "Vegetable Kottu, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 20,
+    "difficulty": "Medium",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "flour",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "water",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "carrot",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "cabbage",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "curry_powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Mix flour, water and salt into dough; roll thinly and cook in a pan. Slice into strips.",
+      "Fry sliced onion, carrot and cabbage in oil until tender.",
+      "Add curry powder and roti strips; chop and toss on the pan for 5 minutes."
+    ]
+  },
+  {
+    "id": "recipe_009",
+    "name": "Fish Curry",
+    "description": "Fish Curry, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Non-vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 25,
+    "difficulty": "Medium",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "fish",
+        "quantity": "400 g"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "tomato",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "curry_powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "turmeric",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Cut fish into chunks and season with turmeric and salt.",
+      "Simmer chopped onion, tomato and curry powder in coconut milk for 8 minutes.",
+      "Add fish and simmer gently until opaque and cooked through."
+    ]
+  },
+  {
+    "id": "recipe_010",
+    "name": "Chicken Curry",
+    "description": "Chicken Curry, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Non-vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "chicken",
+        "quantity": "400 g"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredientId": "ginger",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "curry_powder",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Fry chopped onion, garlic and ginger in oil.",
+      "Add curry powder and chicken pieces; brown for 5 minutes.",
+      "Add coconut milk and salt. Cover and simmer until chicken is fully cooked."
+    ]
+  },
+  {
+    "id": "recipe_011",
+    "name": "Pol Sambol",
+    "description": "Pol Sambol, a satisfying homemade snacks recipe with simple ingredients and clear steps.",
+    "category": "Snacks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "ingredientId": "coconut",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1 small"
+      },
+      {
+        "ingredientId": "chilli_powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "lime",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Finely chop onion and mix with chilli powder and salt.",
+      "Rub in freshly grated coconut until evenly coloured.",
+      "Squeeze over lime juice, mix and serve fresh."
+    ]
+  },
+  {
+    "id": "recipe_012",
+    "name": "Vegetable Pasta",
+    "description": "Vegetable Pasta, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "pasta",
+        "quantity": "180 g"
+      },
+      {
+        "ingredientId": "tomato",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "capsicum",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Boil pasta in water until tender and drain.",
+      "Fry chopped garlic and capsicum in oil. Add diced tomato and salt; simmer 10 minutes.",
+      "Toss pasta through the sauce and serve hot."
+    ]
+  },
+  {
+    "id": "recipe_013",
+    "name": "Chicken Pasta",
+    "description": "Chicken Pasta, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Non-vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 25,
+    "difficulty": "Medium",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "pasta",
+        "quantity": "180 g"
+      },
+      {
+        "ingredientId": "chicken",
+        "quantity": "200 g"
+      },
+      {
+        "ingredientId": "cream",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "pepper",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Boil pasta and drain.",
+      "Fry diced chicken and garlic in oil until chicken is fully cooked.",
+      "Add cream and pepper; simmer 3 minutes. Fold in pasta."
+    ]
+  },
+  {
+    "id": "recipe_014",
+    "name": "Vegetable Omelette",
+    "description": "Vegetable Omelette, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 8,
+    "difficulty": "Easy",
+    "servings": 1,
+    "ingredients": [
+      {
+        "ingredientId": "egg",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "0.5"
+      },
+      {
+        "ingredientId": "tomato",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "capsicum",
+        "quantity": "0.5"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "1 pinch"
+      }
+    ],
+    "instructions": [
+      "Beat eggs with salt and finely diced vegetables.",
+      "Heat oil in a nonstick pan and pour in mixture.",
+      "Cook gently until the base sets; fold and cook until egg is set throughout."
+    ]
+  },
+  {
+    "id": "recipe_015",
+    "name": "Pancakes",
+    "description": "Pancakes, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "flour",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "egg",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "baking_powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Whisk flour, sugar and baking powder together.",
+      "Beat in egg and milk until just combined.",
+      "Melt a little butter in a pan. Cook small ladles of batter until bubbles appear; flip and brown."
+    ]
+  },
+  {
+    "id": "recipe_016",
+    "name": "French Toast",
+    "description": "French Toast, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "bread",
+        "quantity": "4 slices"
+      },
+      {
+        "ingredientId": "egg",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "0.25 cup"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "cinnamon",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Whisk eggs, milk and cinnamon in a shallow dish.",
+      "Dip bread briefly on both sides.",
+      "Fry in butter for 2–3 minutes per side until golden and egg is cooked."
+    ]
+  },
+  {
+    "id": "recipe_017",
+    "name": "Potato Wedges",
+    "description": "Potato Wedges, a satisfying homemade snacks recipe with simple ingredients and clear steps.",
+    "category": "Snacks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 35,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "potato",
+        "quantity": "3"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "chilli_powder",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Heat oven to 210°C. Scrub potatoes and cut into wedges.",
+      "Toss with oil, chilli powder and salt; spread on a tray.",
+      "Bake 30–35 minutes, turning halfway, until tender and browned."
+    ]
+  },
+  {
+    "id": "recipe_018",
+    "name": "Banana Smoothie",
+    "description": "Banana Smoothie, a satisfying homemade drinks recipe with simple ingredients and clear steps.",
+    "category": "Drinks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "banana",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "yogurt",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "honey",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "Peel and slice bananas.",
+      "Blend with milk, yogurt and honey until smooth.",
+      "Pour into two glasses and serve immediately."
+    ]
+  },
+  {
+    "id": "recipe_019",
+    "name": "Fruit Salad",
+    "description": "Fruit Salad, a satisfying homemade desserts recipe with simple ingredients and clear steps.",
+    "category": "Desserts",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "apple",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "banana",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "papaya",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "orange",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "honey",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "Wash apple and dice. Peel and cut remaining fruit.",
+      "Combine fruit in a bowl and drizzle with honey.",
+      "Toss gently and chill until serving."
+    ]
+  },
+  {
+    "id": "recipe_020",
+    "name": "Tomato Soup",
+    "description": "Tomato Soup, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "tomato",
+        "quantity": "5"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "pepper",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Fry chopped onion and garlic in oil until soft.",
+      "Add tomatoes, salt, pepper and 1 cup water. Simmer 20 minutes.",
+      "Cool slightly, blend carefully and reheat before serving."
+    ]
+  },
+  {
+    "id": "recipe_021",
+    "name": "Vegetable Sandwich",
+    "description": "Vegetable Sandwich, a satisfying homemade snacks recipe with simple ingredients and clear steps.",
+    "category": "Snacks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "bread",
+        "quantity": "4 slices"
+      },
+      {
+        "ingredientId": "tomato",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "cucumber",
+        "quantity": "0.5"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "cheese",
+        "quantity": "2 slices"
+      }
+    ],
+    "instructions": [
+      "Wash and thinly slice tomato and cucumber.",
+      "Butter bread and layer vegetables and cheese.",
+      "Close sandwiches and cut into triangles."
+    ]
+  },
+  {
+    "id": "recipe_022",
+    "name": "Milk Rice",
+    "description": "Milk Rice, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 30,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "ingredientId": "rice",
+        "quantity": "1.5 cups"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1.5 cups"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Wash rice and cook with 3 cups water until soft.",
+      "Stir in coconut milk and salt; cook gently until absorbed.",
+      "Press onto a plate, cool for 5 minutes and cut into diamonds."
+    ]
+  },
+  {
+    "id": "recipe_023",
+    "name": "Pumpkin Curry",
+    "description": "Pumpkin Curry, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "pumpkin",
+        "quantity": "500 g"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "curry_powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "curry_leaves",
+        "quantity": "1 sprig"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Peel pumpkin and cut into cubes.",
+      "Place all ingredients in a pot with half a cup water.",
+      "Simmer covered until pumpkin is tender; uncover to thicken."
+    ]
+  },
+  {
+    "id": "recipe_024",
+    "name": "Chickpea Salad",
+    "description": "Chickpea Salad, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "chickpeas",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "tomato",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "cucumber",
+        "quantity": "0.5"
+      },
+      {
+        "ingredientId": "lime",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "coriander",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Use cooked and cooled chickpeas; drain well.",
+      "Dice tomato and cucumber and chop coriander.",
+      "Toss with chickpeas, lime juice and salt."
+    ]
+  },
+  {
+    "id": "recipe_025",
+    "name": "Spinach Dhal",
+    "description": "Spinach Dhal, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "lentils",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "spinach",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "turmeric",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Rinse lentils; simmer with chopped onion, turmeric and 2 cups water for 20 minutes.",
+      "Wash and chop spinach.",
+      "Stir spinach, coconut milk and salt into lentils and simmer 5 minutes."
+    ]
+  },
+  {
+    "id": "recipe_026",
+    "name": "Garlic Butter Noodles",
+    "description": "Garlic Butter Noodles, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 12,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "noodles",
+        "quantity": "180 g"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "3 cloves"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Boil noodles according to packet instructions; drain.",
+      "Gently fry minced garlic in butter for 1 minute.",
+      "Toss noodles with garlic butter and soy sauce until hot."
+    ]
+  },
+  {
+    "id": "recipe_027",
+    "name": "Tuna Rice Bowl",
+    "description": "Tuna Rice Bowl, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Non-vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "rice",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "tuna",
+        "quantity": "150 g"
+      },
+      {
+        "ingredientId": "cucumber",
+        "quantity": "0.5"
+      },
+      {
+        "ingredientId": "carrot",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Cook rice until tender.",
+      "Drain canned tuna, slice cucumber and grate carrot.",
+      "Arrange tuna and vegetables over rice and drizzle with soy sauce."
+    ]
+  },
+  {
+    "id": "recipe_028",
+    "name": "Prawn Stir Fry",
+    "description": "Prawn Stir Fry, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Non-vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "prawns",
+        "quantity": "250 g"
+      },
+      {
+        "ingredientId": "capsicum",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "ingredientId": "ginger",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Peel and devein prawns; slice capsicum.",
+      "Heat oil and fry garlic and ginger briefly. Add capsicum and cook 3 minutes.",
+      "Add prawns and soy sauce; stir-fry until prawns are opaque throughout."
+    ]
+  },
+  {
+    "id": "recipe_029",
+    "name": "Beef Pepper Skillet",
+    "description": "Beef Pepper Skillet, a satisfying homemade dinner recipe with simple ingredients and clear steps.",
+    "category": "Dinner",
+    "foodType": "Non-vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "beef",
+        "quantity": "250 g"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "capsicum",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "pepper",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "soy_sauce",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Slice beef thinly across the grain.",
+      "Sear beef in hot oil until cooked; transfer to a plate.",
+      "Fry onion and capsicum until tender. Return beef, add pepper and soy sauce and heat through."
+    ]
+  },
+  {
+    "id": "recipe_030",
+    "name": "Cabbage Mallung",
+    "description": "Cabbage Mallung, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "cabbage",
+        "quantity": "3 cups"
+      },
+      {
+        "ingredientId": "coconut",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "turmeric",
+        "quantity": "0.25 tsp"
+      },
+      {
+        "ingredientId": "curry_leaves",
+        "quantity": "1 sprig"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Finely shred washed cabbage.",
+      "Place in a pan with turmeric, curry leaves, salt and 2 tablespoons water.",
+      "Cover for 4 minutes then stir in coconut and cook uncovered for 5 minutes."
+    ]
+  },
+  {
+    "id": "recipe_031",
+    "name": "Beetroot Curry",
+    "description": "Beetroot Curry, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "beetroot",
+        "quantity": "3"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "curry_powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Peel beetroot and slice into thin matchsticks.",
+      "Simmer with sliced onion, curry powder, salt and half a cup water for 15 minutes.",
+      "Add coconut milk and simmer until tender."
+    ]
+  },
+  {
+    "id": "recipe_032",
+    "name": "Green Bean Curry",
+    "description": "Green Bean Curry, a satisfying homemade lunch recipe with simple ingredients and clear steps.",
+    "category": "Lunch",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 20,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "beans",
+        "quantity": "300 g"
+      },
+      {
+        "ingredientId": "onion",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "turmeric",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Trim beans and cut into short lengths.",
+      "Place beans, sliced onion, turmeric and salt in a saucepan.",
+      "Add coconut milk and simmer gently until beans are tender."
+    ]
+  },
+  {
+    "id": "recipe_033",
+    "name": "Mushroom Toast",
+    "description": "Mushroom Toast, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "bread",
+        "quantity": "4 slices"
+      },
+      {
+        "ingredientId": "mushroom",
+        "quantity": "200 g"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "1 clove"
+      },
+      {
+        "ingredientId": "pepper",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Slice mushrooms and mince garlic.",
+      "Fry in butter until mushrooms release liquid and brown; season with pepper.",
+      "Toast bread and spoon mushrooms over it."
+    ]
+  },
+  {
+    "id": "recipe_034",
+    "name": "Banana Oat Porridge",
+    "description": "Banana Oat Porridge, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "oats",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "banana",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "cinnamon",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Simmer oats and milk on low heat, stirring frequently.",
+      "Mash half the banana into the porridge and cook until creamy.",
+      "Top with remaining banana slices and cinnamon."
+    ]
+  },
+  {
+    "id": "recipe_035",
+    "name": "Cheese Scrambled Eggs",
+    "description": "Cheese Scrambled Eggs, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 7,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "egg",
+        "quantity": "3"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "cheese",
+        "quantity": "0.25 cup"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Whisk eggs and milk.",
+      "Melt butter over low heat and add eggs. Stir gently into soft curds.",
+      "Add grated cheese and continue cooking until egg is set."
+    ]
+  },
+  {
+    "id": "recipe_036",
+    "name": "Avocado Toast",
+    "description": "Avocado Toast, a satisfying homemade breakfast recipe with simple ingredients and clear steps.",
+    "category": "Breakfast",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 3,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "bread",
+        "quantity": "2 slices"
+      },
+      {
+        "ingredientId": "avocado",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "lime",
+        "quantity": "0.5"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "1 pinch"
+      },
+      {
+        "ingredientId": "pepper",
+        "quantity": "1 pinch"
+      }
+    ],
+    "instructions": [
+      "Toast bread until crisp.",
+      "Mash avocado with lime juice, salt and pepper.",
+      "Spread over toast and serve immediately."
+    ]
+  },
+  {
+    "id": "recipe_037",
+    "name": "Spiced Chickpeas",
+    "description": "Spiced Chickpeas, a satisfying homemade snacks recipe with simple ingredients and clear steps.",
+    "category": "Snacks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "chickpeas",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "chilli_powder",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "cumin",
+        "quantity": "0.5 tsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Drain cooked chickpeas and pat dry.",
+      "Heat oil in a pan and add chickpeas.",
+      "Stir in spices and salt; cook for 8–10 minutes, stirring regularly."
+    ]
+  },
+  {
+    "id": "recipe_038",
+    "name": "Cucumber Yogurt Dip",
+    "description": "Cucumber Yogurt Dip, a satisfying homemade snacks recipe with simple ingredients and clear steps.",
+    "category": "Snacks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "cucumber",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "yogurt",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "garlic",
+        "quantity": "1 clove"
+      },
+      {
+        "ingredientId": "mint",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Grate cucumber and squeeze out excess water.",
+      "Mix with yogurt and finely grated garlic.",
+      "Stir in chopped mint and salt; chill before serving."
+    ]
+  },
+  {
+    "id": "recipe_039",
+    "name": "Cheese Potato Cakes",
+    "description": "Cheese Potato Cakes, a satisfying homemade snacks recipe with simple ingredients and clear steps.",
+    "category": "Snacks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 15,
+    "cookingTime": 25,
+    "difficulty": "Medium",
+    "servings": 3,
+    "ingredients": [
+      {
+        "ingredientId": "potato",
+        "quantity": "3"
+      },
+      {
+        "ingredientId": "cheese",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "flour",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "salt",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Boil peeled potatoes until tender; drain and mash.",
+      "Mix with cheese, flour and salt; shape into small patties.",
+      "Pan-fry in oil until golden on both sides and hot throughout."
+    ]
+  },
+  {
+    "id": "recipe_040",
+    "name": "Peanut Trail Mix",
+    "description": "Peanut Trail Mix, a satisfying homemade snacks recipe with simple ingredients and clear steps.",
+    "category": "Snacks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 8,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "ingredientId": "peanuts",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "oats",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "honey",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "cinnamon",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Dry-toast peanuts and oats over low heat for 6 minutes.",
+      "Add honey and cinnamon, stirring to coat.",
+      "Spread on a plate and cool completely before breaking apart."
+    ]
+  },
+  {
+    "id": "recipe_041",
+    "name": "Coconut Semolina Pudding",
+    "description": "Coconut Semolina Pudding, a satisfying homemade desserts recipe with simple ingredients and clear steps.",
+    "category": "Desserts",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 15,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "ingredientId": "semolina",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "coconut_milk",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "3 tbsp"
+      },
+      {
+        "ingredientId": "cardamom",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Bring coconut milk to a gentle simmer.",
+      "Sprinkle in semolina while whisking to prevent lumps.",
+      "Stir in sugar and cardamom; cook until thick and spoon into bowls."
+    ]
+  },
+  {
+    "id": "recipe_042",
+    "name": "Chocolate Oat Cups",
+    "description": "Chocolate Oat Cups, a satisfying homemade desserts recipe with simple ingredients and clear steps.",
+    "category": "Desserts",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 5,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "ingredientId": "oats",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "cocoa_powder",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "honey",
+        "quantity": "2 tbsp"
+      }
+    ],
+    "instructions": [
+      "Combine milk, cocoa and honey in a pan and warm gently.",
+      "Stir in oats and cook 5 minutes until thick.",
+      "Divide into small cups and refrigerate for 1 hour."
+    ]
+  },
+  {
+    "id": "recipe_043",
+    "name": "Cinnamon Baked Apples",
+    "description": "Cinnamon Baked Apples, a satisfying homemade desserts recipe with simple ingredients and clear steps.",
+    "category": "Desserts",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "apple",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "cinnamon",
+        "quantity": "0.5 tsp"
+      }
+    ],
+    "instructions": [
+      "Heat oven to 180°C. Core and halve apples.",
+      "Place in a baking dish; dot with butter and sprinkle with sugar and cinnamon.",
+      "Add 2 tablespoons water and bake until soft."
+    ]
+  },
+  {
+    "id": "recipe_044",
+    "name": "Mango Yogurt Pots",
+    "description": "Mango Yogurt Pots, a satisfying homemade desserts recipe with simple ingredients and clear steps.",
+    "category": "Desserts",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "mango",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "yogurt",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "honey",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "Peel and dice mango; mash half into a puree.",
+      "Mix yogurt with honey.",
+      "Layer puree, yogurt and mango pieces in glasses and chill."
+    ]
+  },
+  {
+    "id": "recipe_045",
+    "name": "Caramel Banana",
+    "description": "Caramel Banana, a satisfying homemade desserts recipe with simple ingredients and clear steps.",
+    "category": "Desserts",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 8,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "banana",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "butter",
+        "quantity": "1 tbsp"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "cinnamon",
+        "quantity": "0.25 tsp"
+      }
+    ],
+    "instructions": [
+      "Peel bananas and cut lengthwise.",
+      "Melt butter and sugar over medium-low heat until bubbling.",
+      "Add bananas and cinnamon; cook 2 minutes per side until golden."
+    ]
+  },
+  {
+    "id": "recipe_046",
+    "name": "Pineapple Coconut Cups",
+    "description": "Pineapple Coconut Cups, a satisfying homemade desserts recipe with simple ingredients and clear steps.",
+    "category": "Desserts",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "pineapple",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "yogurt",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "coconut",
+        "quantity": "0.25 cup"
+      },
+      {
+        "ingredientId": "honey",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "Dice peeled pineapple into small pieces.",
+      "Mix yogurt with honey and grated coconut.",
+      "Layer with pineapple and refrigerate until chilled."
+    ]
+  },
+  {
+    "id": "recipe_047",
+    "name": "Mango Lassi",
+    "description": "Mango Lassi, a satisfying homemade drinks recipe with simple ingredients and clear steps.",
+    "category": "Drinks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "mango",
+        "quantity": "1"
+      },
+      {
+        "ingredientId": "yogurt",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "0.5 cup"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "Peel and dice mango.",
+      "Blend mango, yogurt, milk and sugar until smooth.",
+      "Divide between glasses and serve chilled."
+    ]
+  },
+  {
+    "id": "recipe_048",
+    "name": "Lime Mint Cooler",
+    "description": "Lime Mint Cooler, a satisfying homemade drinks recipe with simple ingredients and clear steps.",
+    "category": "Drinks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 10,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "lime",
+        "quantity": "2"
+      },
+      {
+        "ingredientId": "mint",
+        "quantity": "8 leaves"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredientId": "water",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "Squeeze lime juice into a jug.",
+      "Gently crush mint with sugar and add to the juice.",
+      "Stir in cold water until sugar dissolves and pour into glasses."
+    ]
+  },
+  {
+    "id": "recipe_049",
+    "name": "Spiced Milk Tea",
+    "description": "Spiced Milk Tea, a satisfying homemade drinks recipe with simple ingredients and clear steps.",
+    "category": "Drinks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 8,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "tea",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "water",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "cardamom",
+        "quantity": "2 pods"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "2 tsp"
+      }
+    ],
+    "instructions": [
+      "Bring water and crushed cardamom to a boil.",
+      "Add tea and simmer for 2 minutes.",
+      "Add milk and sugar, heat gently and strain into cups."
+    ]
+  },
+  {
+    "id": "recipe_050",
+    "name": "Iced Cocoa",
+    "description": "Iced Cocoa, a satisfying homemade drinks recipe with simple ingredients and clear steps.",
+    "category": "Drinks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 3,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "cocoa_powder",
+        "quantity": "2 tbsp"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "2 tsp"
+      }
+    ],
+    "instructions": [
+      "Mix cocoa and sugar with 3 tablespoons milk to make a paste.",
+      "Warm gently, stirring until smooth.",
+      "Whisk in remaining cold milk and chill before serving."
+    ]
+  },
+  {
+    "id": "recipe_051",
+    "name": "Papaya Smoothie",
+    "description": "Papaya Smoothie, a satisfying homemade drinks recipe with simple ingredients and clear steps.",
+    "category": "Drinks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 0,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "papaya",
+        "quantity": "2 cups"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "yogurt",
+        "quantity": "0.5 cup"
+      }
+    ],
+    "instructions": [
+      "Peel and deseed ripe papaya; cut into cubes.",
+      "Blend papaya with milk and yogurt until smooth.",
+      "Serve immediately in two glasses."
+    ]
+  },
+  {
+    "id": "recipe_052",
+    "name": "Ginger Coffee",
+    "description": "Ginger Coffee, a satisfying homemade drinks recipe with simple ingredients and clear steps.",
+    "category": "Drinks",
+    "foodType": "Vegetarian",
+    "image": null,
+    "preparationTime": 5,
+    "cookingTime": 5,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredientId": "coffee",
+        "quantity": "2 tsp"
+      },
+      {
+        "ingredientId": "ginger",
+        "quantity": "1 tsp"
+      },
+      {
+        "ingredientId": "milk",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "water",
+        "quantity": "1 cup"
+      },
+      {
+        "ingredientId": "sugar",
+        "quantity": "2 tsp"
+      }
+    ],
+    "instructions": [
+      "Simmer grated ginger in water for 3 minutes.",
+      "Stir in instant coffee and sugar.",
+      "Add warm milk, strain and serve."
+    ]
+  }
+]

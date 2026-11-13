@@ -1,0 +1,38 @@
+[
+  {
+    "id": "breakfast",
+    "name": "Breakfast",
+    "icon": "sunny-outline",
+    "color": "#FCE8C9"
+  },
+  {
+    "id": "lunch",
+    "name": "Lunch",
+    "icon": "restaurant-outline",
+    "color": "#DFEBD5"
+  },
+  {
+    "id": "dinner",
+    "name": "Dinner",
+    "icon": "moon-outline",
+    "color": "#E4E0F3"
+  },
+  {
+    "id": "snacks",
+    "name": "Snacks",
+    "icon": "pizza-outline",
+    "color": "#F9DFD2"
+  },
+  {
+    "id": "desserts",
+    "name": "Desserts",
+    "icon": "ice-cream-outline",
+    "color": "#F6DEEA"
+  },
+  {
+    "id": "drinks",
+    "name": "Drinks",
+    "icon": "cafe-outline",
+    "color": "#D9ECE6"
+  }
+]
